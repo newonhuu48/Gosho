@@ -1,0 +1,3 @@
+﻿  vector.cpp
+C:\Users\Pc\Desktop\Projects\C++\Vectors\Vectors\vector.cpp(137,57): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+  Vectors.vcxproj -> C:\Users\Pc\Desktop\Projects\C++\Vectors\Debug\Vectors.exe
